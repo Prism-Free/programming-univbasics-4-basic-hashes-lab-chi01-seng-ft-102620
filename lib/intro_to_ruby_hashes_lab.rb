@@ -10,7 +10,7 @@ def my_hash
     name: "Dakota", 
     cuteness_level: "Off the charts!"
   }
-  pet
+  #pet
 end
 
 def pioneer
