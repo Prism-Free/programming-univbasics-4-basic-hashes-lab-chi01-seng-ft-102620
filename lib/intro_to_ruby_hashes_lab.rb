@@ -5,7 +5,12 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  pet = {breed: "Dog", name: "Dakota", cuteness_level: "Off the charts!")
+  pet = {
+    breed: "Dog", 
+    name: "Dakota", 
+    cuteness_level: "Off the charts!"
+  }
+  pet
 end
 
 def pioneer
